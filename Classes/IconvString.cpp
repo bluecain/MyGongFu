@@ -5,7 +5,7 @@
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32)
 // 编译链接的时候指定静态库
 #pragma comment(lib,"libiconv.lib")
-#endif
+#endif
 
 int convert(char *from_charset, char *to_charset, char *inbuf, size_t inlen, char *outbuf, size_t outlen)
 {
