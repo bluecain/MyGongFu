@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# My ignored files 
+cocos2d/
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win8.1-universal/
+proj.win32/
+.cocos-project.json
+CMakeLists.txt
